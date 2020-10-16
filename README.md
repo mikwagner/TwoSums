@@ -1,4 +1,4 @@
-# TwoSums
+# Two Sums
 
 My solution to:
 
